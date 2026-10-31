@@ -8,4 +8,13 @@ A data processing tool written in Python
 pip install -r requirements.txt
 ```
 
-_updated 2026-10-30_
+## Usage
+
+```
+python3 main.py --version
+```
+
+## Status
+
+Early stage. Behaviour may change without notice.
+Bug reports and small PRs are welcome.
